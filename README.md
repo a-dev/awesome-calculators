@@ -86,6 +86,7 @@ Software and web services for numeric, financial, engineering, health, conversio
 - [Construction Master Pro](https://www.calculated.com/mobile/prd457/Construction-Master-Pro-App.html) - Handles feet-inch-fraction math, roofs, rafters, stairs, material quantities, areas, volumes, and job costs. `iOS` `iPadOS` `Android` · **Price:** [14-day trial; US\$4.99/month or US\$39.99/year](https://apps.apple.com/us/app/construction-master-pro-calc/id370406446) · **License:** Proprietary.
 - [Pipe Flow Wizard](https://www.pipeflow.com/pipe-flow-wizard-software) - Calculates pressure loss, flow rate, pipe diameter, and pipe length for liquids and gases in a single length of pipe between a start and end elevation, with fittings to represent valves and bends. `Windows` `macOS` `iOS` `iPadOS` · **Price:** Trial; [£95 one-time](https://www.pipeflow.com/sitemap/pipe-flow-wizard-software-license-costs) · **License:** Proprietary.
 - [SkyCiv Free Engineering Tools](https://skyciv.com/free-tools/) - Browser calculators for beams, trusses, frames, shafts, wind loads, foundations, base plates, inertia, and timber design. `Web` · **Price:** Free tools; optional paid platform · **License:** Proprietary.
+- [WorkroomCalc](https://workroomcalc.co.uk/) - Estimates Roman blind finished size, fold layout, face and lining cuts, rods, rings, and cord from recess or exact measurements. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 
 ### Health and Fitness
 
