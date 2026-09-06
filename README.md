@@ -91,6 +91,7 @@ Software and web services for numeric, financial, engineering, health, conversio
 ### Health and Fitness
 
 - [ACC CVD Risk Estimator Plus](https://tools.acc.org/CVD-Risk-Estimator-Plus/) - Estimates ASCVD risk with Pooled Cohort and AHA PREVENT equations and explores potential therapy effects. `Web` `US` · **Price:** Free · **License:** Proprietary.
+- [AI HaoYisheng](https://aihaoyisheng.com/en/) - Provides multilingual bedside clinical calculators and scene workflows for licensed clinicians, with transparent formulas and local in-browser computation. `Web` `Android` · **Price:** Free · **License:** Proprietary.
 - [Calculate by QxMD](https://qxmd.com/calculate) - Provides more than 400 evidence-based medical calculators and clinical decision-support tools. `Web` `iOS` `iPadOS` `Android` · **Price:** Free · **License:** Proprietary.
 - [CDC BMI Calculators](https://www.cdc.gov/bmi/adult-calculator/index.html) - Official adult and child BMI calculators, with BMI-for-age guidance. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [Concept2 Training Calculators](https://www.concept2.com/training/pace-calculator) - Converts pace, watts, distance, VO₂ max, and weight adjustment for rowing, skiing, and cycling ergometers. `Web` · **Price:** Free · **License:** Proprietary.
