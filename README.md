@@ -130,6 +130,7 @@ Software and web services for numeric, financial, engineering, health, conversio
 ### Collections and Other
 
 - [Altyst Calculators](https://altyst.ai/tools) - Calculates net operating income, commercial loan proceeds against loan-to-value, minimum DSCR and minimum debt yield at once, cap rate, DSCR, cash-on-cash return, gross rent multiplier, and break-even occupancy for income property. `Web` · **Price:** Free · **License:** Proprietary.
+- [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, physics, math, real estate, SaaS, and developer tools. Available in 26 languages with dark mode, responsive design, and smart insights.
 - [Calculator.net](https://www.calculator.net/) - Collects roughly 200 in-house calculators across finance, health, mathematics, statistics, construction, dates, and conversions. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 - [Omni Calculator](https://www.omnicalculator.com/) - Organizes nearly 3,900 expert-reviewed calculators across science, finance, health, construction, conversion, sports, and everyday life. `Web` `Android` · **Price:** Free · **License:** Proprietary.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time. `Web` · **Price:** Free · **License:** Proprietary.
