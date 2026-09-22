@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "check-links": "node scripts/check-links.mjs",
-    "test": "awesome-lint",
-    "test:local": "node scripts/lint-local.mjs"
+    "test": "node scripts/check-lists.mjs && awesome-lint",
+    "test:local": "node scripts/check-lists.mjs && node scripts/lint-local.mjs"
   },
   "devDependencies": {
     "awesome-lint": "2.3.0"

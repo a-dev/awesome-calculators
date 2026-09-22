@@ -2,7 +2,7 @@ import {readFile} from 'node:fs/promises';
 
 // Get target markdown files from CLI arguments or fall back to default files
 const files = process.argv.slice(2);
-const targets = files.length > 0 ? files : ['README.md', 'unmaintained.md'];
+const targets = files.length > 0 ? files : ['README.md', 'emerging.md', 'unmaintained.md'];
 
 // Regular expression to extract HTTP/HTTPS hyperlinks from Markdown links: [text](http://...)
 const markdownLink = /\]\((https?:\/\/[^()\s]+(?:\([^()\s]*\)[^()\s]*)*)\)/g;
