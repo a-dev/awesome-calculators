@@ -45,6 +45,7 @@ No entries yet.
 
 ### Engineering and Construction
 
+- [ComplyOnSite HAVS and Noise Calculators](https://complyonsite.com/tools) - Calculates daily and weekly hand-arm vibration and workplace noise exposure against UK HSE action and limit values. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimates slab, footing, post-hole, bag, and ready-mix quantities, and compares bag counts, delivered yardage, and project worksheet totals. `Web` `US` · **Price:** Free; US$9.90/month for Pro with PDF reports and unlimited projects · **License:** Proprietary.
 - [WorkroomCalc](https://workroomcalc.co.uk/) - Estimates Roman blind finished size, fold layout, face and lining cuts, rods, rings, and cord from recess or exact measurements. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 
