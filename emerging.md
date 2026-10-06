@@ -73,6 +73,7 @@ No entries yet.
 - [Days Calculator](https://dayscalculator.io/) - Counts days between two dates or from today, and adds or subtracts days in the browser. `Web` · **Price:** Free · **License:** Proprietary.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) - Estimates per-item and batch prices from machine time, labor, materials, fixed costs, and markup. `Web` · **Price:** Free · **License:** Proprietary.
 - [Future Value Calculator](https://future-value-calculator.com/) - Projects nominal and inflation-adjusted future value from a starting balance, recurring deposits or withdrawals, and dated benchmark rates shown with their sources. `Web` · **Price:** Free · **License:** Proprietary.
+- [kdpbook.io KDP Printing Cost Calculator](https://kdpbook.io/kdp/printing-cost-calculator) - Calculates the Amazon KDP printing cost and minimum list price of a paperback or hardcover from ink and paper, trim size and page count, on each of the 14 KDP print marketplaces. `Web` · **Price:** Free · **License:** Proprietary.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Estimates lawn mowing job cost from area, rate, and extras. `Web` · **Price:** Free · **License:** Proprietary.
 
 ## Built-in, Search, and Launcher Calculators
