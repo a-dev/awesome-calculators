@@ -70,6 +70,7 @@ No entries yet.
 ### Collections and Other
 
 - [Altyst Calculators](https://altyst.ai/tools) - Calculates net operating income, commercial loan proceeds against loan-to-value, minimum DSCR and minimum debt yield at once, cap rate, DSCR, cash-on-cash return, gross rent multiplier, and break-even occupancy for income property. `Web` · **Price:** Free · **License:** Proprietary.
+- [CalculatorVillage](https://calculatorvillage.com/) - Collects calculators for finance, health, mathematics, construction, and everyday tasks, with documented methods and worked examples. `Web` · **Price:** Free · **License:** Proprietary.
 - [Calculora](https://calculora.net/) - Groups more than 300 calculators across finance, health, mathematics, physics, conversion, and developer topics, each with its formula, assumptions, and cited sources. `Web` · **Price:** Free · **License:** Proprietary.
 - [DateCalx](https://datecalx.com/) - Calculates dates, age, business days, countdowns, calendars, and time. `Web` · **Price:** Free · **License:** Proprietary.
 - [Days Calculator](https://dayscalculator.io/) - Counts days between two dates or from today, and adds or subtracts days in the browser. `Web` · **Price:** Free · **License:** Proprietary.
