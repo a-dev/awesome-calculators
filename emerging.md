@@ -46,6 +46,7 @@ No entries yet.
 ### Engineering and Construction
 
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimates slab, footing, post-hole, bag, and ready-mix quantities, and compares bag counts, delivered yardage, and project worksheet totals. `Web` `US` · **Price:** Free; US$9.90/month for Pro with PDF reports and unlimited projects · **License:** Proprietary.
+- [GravelCalc](https://www.gravelcalculate.com/) - Estimates cubic yards, tons, bags, and cost for gravel, sand, and stone from area, depth, material density, and waste allowance, with separate calculators for driveways, paver bases, and French drains. `Web` · **Price:** Free · **License:** Proprietary.
 - [WorkroomCalc](https://workroomcalc.co.uk/) - Estimates Roman blind finished size, fold layout, face and lining cuts, rods, rings, and cord from recess or exact measurements. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 
 ### Health and Fitness
