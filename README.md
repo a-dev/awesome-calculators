@@ -53,6 +53,7 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 
 ## Scientific, Graphing, and Computer Algebra
 
+- [CalcSolver Pro](https://calcsolverpro.net/) - Math calculators that show step-by-step solutions for homework, including area, midpoint, and conversion tools. `Web` · **Price:** Free · **License:** Proprietary.
 - [Cantor](https://apps.kde.org/cantor/) - A single worksheet interface for Maxima, SageMath, GNU Octave, Python, R, Julia, Qalculate!, and other mathematical engines. `Linux` `Windows` · **Price:** Free · **License:** GPL-2.0-or-later · **Source:** [KDE Invent](https://invent.kde.org/education/cantor).
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Creates interactive 2D graphs with sliders, tables, regressions, distributions, and statistics. `Web` `iOS` `Android` · **Price:** Free · **License:** Proprietary.
 - [FriCAS](https://fricas.github.io/) - A computer algebra system for mathematical research and algorithm development, covering calculus operations such as integration and differentiation as well as abstract algebra. `Windows` `macOS` `Linux` · **Price:** Free · **License:** BSD-3-Clause · **Source:** [GitHub](https://github.com/fricas/fricas).
