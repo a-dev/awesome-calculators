@@ -134,6 +134,7 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 
 ### Collections and Other
 
+- [CalcSolver India](https://calcsolver.in/) - Finance calculators for India: EMI, SIP, GST, and income tax with Indian digit grouping and reviewed-date bylines. `Web` `IN` · **Price:** Free · **License:** Proprietary.
 - [Calculator.net](https://www.calculator.net/) - Collects roughly 200 in-house calculators across finance, health, mathematics, statistics, construction, dates, and conversions. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 - [Omni Calculator](https://www.omnicalculator.com/) - Organizes nearly 3,900 expert-reviewed calculators across science, finance, health, construction, conversion, sports, and everyday life. `Web` `Android` · **Price:** Free · **License:** Proprietary.
 - [PhotoPills](https://www.photopills.com/calculators) - Plans photography with exposure, depth-of-field, field-of-view, timelapse, star-trail, spot-stars, and celestial-position calculators. `iOS` `iPadOS` `Android` · **Price:** US$10.99 one-time · **License:** Proprietary.
