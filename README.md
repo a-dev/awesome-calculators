@@ -112,6 +112,8 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 - [DevToys](https://devtoys.app/) - Offline base and date converters, encoders, hashes, checksums, formatters, generators, and testers in one application. `Windows` `macOS` `Linux` · **Price:** Free · **License:** MIT · **Source:** [GitHub](https://github.com/DevToys-app/DevToys).
 - [Hexa](https://hexa.skushagra.com/) - Keeps hexadecimal, decimal, octal, and binary values in sync and handles bitwise calculations, all from the menu bar. `macOS` · **Price:** Free · **License:** MIT · **Source:** [GitHub](https://github.com/suobset/hexa).
 
+[Explore emerging calculators in this category](emerging.md#developer-tools).
+
 ### LLM Cost Calculators
 
 - [Artificial Analysis LLM Price Calculator](https://artificialanalysis.ai/tools/llm-price-calculator) - Compares models using input, response, reasoning-token, and API-call volumes with token-based, word-based, and preset workloads. `Web` · **Price:** Free · **License:** Proprietary.
