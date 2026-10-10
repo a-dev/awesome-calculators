@@ -56,7 +56,7 @@ No entries yet.
 
 ### Developer Tools
 
-No entries yet.
+- [GraphicCardPrices LLM VRAM Calculator](https://graphiccardprices.com/llm-vram-estimator/) - Estimates local-inference weight memory and a VRAM planning target from parameter count, precision, cache and runtime allowances, and headroom, with reverse capacity estimates and stated assumptions. `Web` · **Price:** Free · **License:** Proprietary.
 
 ### LLM Cost Calculators
 
