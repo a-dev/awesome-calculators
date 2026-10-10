@@ -136,6 +136,7 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 
 - [Calculator.net](https://www.calculator.net/) - Collects roughly 200 in-house calculators across finance, health, mathematics, statistics, construction, dates, and conversions. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 - [Omni Calculator](https://www.omnicalculator.com/) - Organizes nearly 3,900 expert-reviewed calculators across science, finance, health, construction, conversion, sports, and everyday life. `Web` `Android` · **Price:** Free · **License:** Proprietary.
+- [SmartBizCalc](https://smartbizcalc.com/) - 600+ free business and tax calculators covering self-employment tax, payroll tax, LLC vs S-corp savings, contractor pricing, break-even analysis, startup costs, and insurance cost estimates for small business owners, freelancers, and contractors. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 - [PhotoPills](https://www.photopills.com/calculators) - Plans photography with exposure, depth-of-field, field-of-view, timelapse, star-trail, spot-stars, and celestial-position calculators. `iOS` `iPadOS` `Android` · **Price:** US$10.99 one-time · **License:** Proprietary.
 - [timeanddate.com Calculators](https://www.timeanddate.com/date/) - Handles dates, durations, business days, time zones, meetings, week numbers, astronomy, and distances with documented edge cases. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 
