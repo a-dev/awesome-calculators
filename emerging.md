@@ -81,6 +81,7 @@ No entries yet.
 - [HoursCounter](https://hourscounter.com/) - Calculates weekly and biweekly work hours from clock punches, deducts unpaid breaks, and estimates gross pay with overtime calculated separately for each workweek. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [kdpbook.io KDP Printing Cost Calculator](https://kdpbook.io/kdp/printing-cost-calculator) - Calculates the Amazon KDP printing cost and minimum list price of a paperback or hardcover from ink and paper, trim size and page count, on each of the 14 KDP print marketplaces. `Web` · **Price:** Free · **License:** Proprietary.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Estimates lawn mowing job cost from area, rate, and extras. `Web` · **Price:** Free · **License:** Proprietary.
+- [Libre Calculator](https://librecalculator.com/) - Provides topic-specific calculators with input-specific worked steps, diagrams, and lessons. `Web` · **Price:** Free · **License:** MIT · **Source:** [GitHub](https://github.com/tonyzedginidze/librecalculator).
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - Calculates impermanent loss for a 50/50 liquidity pool against holding, profit and average cost basis across several buys with fees, and the buys and sells that return a portfolio to its target weights. `Web` · **Price:** Free · **License:** Proprietary.
 
 ## Built-in, Search, and Launcher Calculators
