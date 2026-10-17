@@ -48,6 +48,7 @@ No entries yet.
 - [ComplyOnSite HAVS and Noise Calculators](https://complyonsite.com/tools) - Calculates daily and weekly hand-arm vibration and workplace noise exposure against UK HSE action and limit values. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimates slab, footing, post-hole, bag, and ready-mix quantities, and compares bag counts, delivered yardage, and project worksheet totals. `Web` `US` · **Price:** Free; US$9.90/month for Pro with PDF reports and unlimited projects · **License:** Proprietary.
 - [GravelCalc](https://www.gravelcalculate.com/) - Estimates cubic yards, tons, bags, and cost for gravel, sand, and stone from area, depth, material density, and waste allowance, with separate calculators for driveways, paver bases, and French drains. `Web` · **Price:** Free · **License:** Proprietary.
+- [TrueToolCalc](https://truetoolcalc.com/) - Estimates concrete volume for slabs, columns, and footings, premix bag counts by bag size or by Quikrete and Sakrete product yield, brick, CMU block, and mortar quantities, and flooring, roofing, and fencing materials, with the formula and a worked example on each calculator page. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [WorkroomCalc](https://workroomcalc.co.uk/) - Estimates Roman blind finished size, fold layout, face and lining cuts, rods, rings, and cord from recess or exact measurements. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 
 ### Health and Fitness
