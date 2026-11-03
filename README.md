@@ -141,6 +141,7 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 - [Omni Calculator](https://www.omnicalculator.com/) - Organizes nearly 3,900 expert-reviewed calculators across science, finance, health, construction, conversion, sports, and everyday life. `Web` `Android` · **Price:** Free · **License:** Proprietary.
 - [PhotoPills](https://www.photopills.com/calculators) - Plans photography with exposure, depth-of-field, field-of-view, timelapse, star-trail, spot-stars, and celestial-position calculators. `iOS` `iPadOS` `Android` · **Price:** US$10.99 one-time · **License:** Proprietary.
 - [timeanddate.com Calculators](https://www.timeanddate.com/date/) - Handles dates, durations, business days, time zones, meetings, week numbers, astronomy, and distances with documented edge cases. `Web` · **Price:** Free with advertising · **License:** Proprietary.
+- [Toolonium](https://toolonium.com/) - Collects free client-side calculators for finance and everyday math, including percentages, profit margin, savings with compound interest, plus business-day and holiday date tools, in English, Spanish, and Portuguese. `Web` · **Price:** Free · **License:** Proprietary.
 
 [Explore emerging calculators in this category](emerging.md#collections-and-other).
 
