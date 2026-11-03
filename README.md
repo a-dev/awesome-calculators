@@ -137,6 +137,7 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 ### Collections and Other
 
 - [Calculator.net](https://www.calculator.net/) - Collects roughly 200 in-house calculators across finance, health, mathematics, statistics, construction, dates, and conversions. `Web` · **Price:** Free with advertising · **License:** Proprietary.
+- [BoringToolsKit](https://boringtoolskit.com/) - Collects about 1,000 in-house calculators across money, home, school, work and health, each page publishing the formula and assumptions behind its answer. `Web` · **Price:** Free · **License:** Proprietary.
 - [Libre Calculator](https://librecalculator.com/) - Collects about 70 calculators for math, finance, health, cooking, and construction, each showing the steps behind its answer with a diagram and a short lesson. `Web` `Windows` `macOS` `Linux` · **Price:** Free · **License:** MIT · **Source:** [GitHub](https://github.com/tonyzedginidze/librecalculator).
 - [Omni Calculator](https://www.omnicalculator.com/) - Organizes nearly 3,900 expert-reviewed calculators across science, finance, health, construction, conversion, sports, and everyday life. `Web` `Android` · **Price:** Free · **License:** Proprietary.
 - [PhotoPills](https://www.photopills.com/calculators) - Plans photography with exposure, depth-of-field, field-of-view, timelapse, star-trail, spot-stars, and celestial-position calculators. `iOS` `iPadOS` `Android` · **Price:** US$10.99 one-time · **License:** Proprietary.
