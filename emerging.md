@@ -83,6 +83,7 @@ No entries yet.
 - [kdpbook.io KDP Printing Cost Calculator](https://kdpbook.io/kdp/printing-cost-calculator) - Calculates the Amazon KDP printing cost and minimum list price of a paperback or hardcover from ink and paper, trim size and page count, on each of the 14 KDP print marketplaces. `Web` · **Price:** Free · **License:** Proprietary.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Estimates lawn mowing job cost from area, rate, and extras. `Web` · **Price:** Free · **License:** Proprietary.
 - [Stats Workbench](https://cn8t.com/) - Calculates descriptive statistics, hypothesis tests including t-tests, ANOVA, and chi-square, confidence intervals, and correlation in the browser, showing the formula and intermediate sums for each result. `Web` · **Price:** Free · **License:** Proprietary.
+- [The Audio Stuff Calculators](https://theaudiostuff.com/tools/) - Calculates headphone amplifier power, speaker wattage and SPL at the listening position, speaker cable resistance and damping factor, cable capacitance roll-off, room modes, porous acoustic panel absorption, and bit-depth loss from digital volume, in the browser. `Web` · **Price:** Free · **License:** Proprietary.
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - Calculates impermanent loss for a 50/50 liquidity pool against holding, profit and average cost basis across several buys with fees, and the buys and sells that return a portfolio to its target weights. `Web` · **Price:** Free · **License:** Proprietary.
 
 ## Built-in, Search, and Launcher Calculators
