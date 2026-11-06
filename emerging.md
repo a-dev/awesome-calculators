@@ -61,6 +61,7 @@ No entries yet.
 
 ### LLM Cost Calculators
 
+- [APICostCalc](https://apicostcalc.com/) - Compares current per-token pricing across 400+ models from OpenAI, Anthropic, Google, and other providers, with separate calculators for batch, caching, and agent-loop workloads. `Web` · **Price:** Free · **License:** Proprietary.
 - [Curlscape LLM Pricing Calculator](https://curlscape.com/tools/llm-pricing-calculator) - Compares API and self-hosted LLM costs using token volume, input-output ratio, GPU capacity, setup costs, and operations overhead. `Web` · **Price:** Free · **License:** Proprietary.
 - [LLM Gateway Token Cost Calculator](https://llmgateway.io/token-cost-calculator) - Counts pasted prompts in the browser or accepts token volumes and request counts, then compares costs across more than 200 models. `Web` · **Price:** Free · **License:** Proprietary.
 
