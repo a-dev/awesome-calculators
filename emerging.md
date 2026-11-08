@@ -53,6 +53,7 @@ No entries yet.
 ### Health and Fitness
 
 - [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Scores the five Army Fitness Test events against the June 2025 scoring tables for general and combat standards, with calculators for alternate events and body fat. `Web` `US` · **Price:** Free · **License:** Proprietary.
+- [depot.fitness 5/3/1 Calculator](https://depot.fitness/tools/531-calculator) - Calculates the training max and every working set of a four-week 5/3/1 cycle from one-rep maxes, with optional Boring But Big 5x10, First Set Last 5x5, or 5s PRO supplemental sets. `Web` · **Price:** Free · **License:** Proprietary.
 - [Yuan Doctor](https://www.yuandoctor.com/en/tools) - Computes bedside clinical scores and guideline thresholds in the browser, showing the strata, stated limitations, and source reference beside each result. `Web` · **Price:** Free; some research Labs tools are paid · **License:** Proprietary.
 
 ### Developer Tools
