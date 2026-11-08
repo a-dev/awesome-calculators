@@ -36,6 +36,7 @@ No entries yet.
 ## Scientific, Graphing, and Computer Algebra
 
 - [SolveCalcPro](https://solvecalcpro.com/) - Evaluates scientific expressions with trigonometry, logarithms, powers, percentages, memory, and history, with additional math tools that show formulas and worked examples. `Web` · **Price:** Free with advertising · **License:** Proprietary.
+- [VistaMath](https://vistamath.com/) - Plots functions, inequalities, polar and parametric curves with live sliders, tracing, and key-point detection, alongside scientific, derivative, integral, limit, matrix, statistics, and equation-solver tools. `Web` · **Price:** Free · **License:** Proprietary.
 
 ## Command-Line Calculators
 
