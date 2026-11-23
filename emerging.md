@@ -53,6 +53,7 @@ No entries yet.
 ### Health and Fitness
 
 - [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Scores the five Army Fitness Test events against the June 2025 scoring tables for general and combat standards, with calculators for alternate events and body fat. `Web` `US` · **Price:** Free · **License:** Proprietary.
+- [MyPetMath](https://www.mypetmath.com/) - Calculates dog and cat age, pregnancy, calories, feeding amounts, and chocolate toxicity from published veterinary formulas, and shows the formula and source with each result. `Web` · **Price:** Free · **License:** Proprietary.
 - [Yuan Doctor](https://www.yuandoctor.com/en/tools) - Computes bedside clinical scores and guideline thresholds in the browser, showing the strata, stated limitations, and source reference beside each result. `Web` · **Price:** Free; some research Labs tools are paid · **License:** Proprietary.
 
 ### Developer Tools
