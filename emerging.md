@@ -46,6 +46,7 @@ No entries yet.
 
 ### Engineering and Construction
 
+- [AmpCalcs](https://ampcalcs.com/) - Calculates voltage drop, conductor and wire sizing, conduit fill, box fill, kVA load, power factor, transformer sizing, Ohm's law, resistor colour codes and battery runtime. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [ComplyOnSite HAVS and Noise Calculators](https://complyonsite.com/tools) - Calculates daily and weekly hand-arm vibration and workplace noise exposure against UK HSE action and limit values. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimates slab, footing, post-hole, bag, and ready-mix quantities, and compares bag counts, delivered yardage, and project worksheet totals. `Web` `US` · **Price:** Free; US$9.90/month for Pro with PDF reports and unlimited projects · **License:** Proprietary.
 - [GravelCalc](https://www.gravelcalculate.com/) - Estimates cubic yards, tons, bags, and cost for gravel, sand, and stone from area, depth, material density, and waste allowance, with separate calculators for driveways, paver bases, and French drains. `Web` · **Price:** Free · **License:** Proprietary.
